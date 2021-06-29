@@ -1,0 +1,12 @@
+.header {
+  display: flex;
+  height: 50px;
+  align-items: center;
+  gap: 20px;
+  padding: 0.5rem;
+  .tabs {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+}

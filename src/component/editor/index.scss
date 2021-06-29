@@ -1,0 +1,18 @@
+.editor {
+  background-color: rgb(19, 18, 18);
+  height: 50vh;
+  color: white;
+  .header {
+    border-bottom: 1px solid rgb(145, 145, 145);
+  }
+  .body {
+    padding: 1rem;
+  }
+}
+button {
+  background-color: rgb(81, 153, 8);
+  border: none;
+  padding: 1rem 4.5rem;
+  border-radius: 5px;
+  color: white;
+}

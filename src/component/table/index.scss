@@ -1,0 +1,15 @@
+table {
+  border-spacing: 0;
+  thead {
+    padding: 1rem 0 !important;
+    tr {
+      background-color: gray;
+      th {
+        padding: 1rem 1.5rem;
+      }
+    }
+  }
+  td {
+    padding: 0.3rem 1.5rem;
+  }
+}
